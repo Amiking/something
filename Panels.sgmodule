@@ -37,7 +37,7 @@ NET_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 
 #机场信息
 #必须修改的字段:你encode后的机场订阅链接
-Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=[URL encode https://nexconvert.com/sub?target=surge&ver=4&url=https%3A%2F%2Fs1.subbitznet.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D5639e78a8bc29c5bc90e875fef1b97ea&insert=false&emoji=true&list=false&tfo=true&scv=false&fdn=false&sort=false&udp=true interval=604800 strict=false]&reset_day=1&title=ExFlux&icon=opticaldisc&color=#5AC8FA
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=[URL encode https://nexconvert.com/sub?target=surge&ver=4&url=https%3A%2F%2Fs1.subbitznet.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D5639e78a8bc29c5bc90e875fef1b97ea&insert=false&emoji=true&list=false&tfo=true&scv=false&fdn=false&sort=false&udp=true interval=604800 strict=false]&reset_day=1&title=Bitz Net&icon=opticaldisc&color=#5AC8FA
 
 #disney+策略组控制
 #应当修改的字段 disneyGroup Disney+的策略组名称
